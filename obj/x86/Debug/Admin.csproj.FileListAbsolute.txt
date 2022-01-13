@@ -1,0 +1,17 @@
+F:\Admin\Admin\bin\Debug\Admin.exe
+F:\Admin\Admin\bin\Debug\Admin.pdb
+F:\Admin\Admin\obj\x86\Debug\Admin.Login.resources
+F:\Admin\Admin\obj\x86\Debug\Admin.Properties.Resources.resources
+F:\Admin\Admin\obj\x86\Debug\Admin.csproj.GenerateResource.Cache
+F:\Admin\Admin\obj\x86\Debug\Admin.exe
+F:\Admin\Admin\obj\x86\Debug\Admin.pdb
+F:\Admin\Admin\obj\x86\Debug\Admin.csprojResolveAssemblyReference.cache
+F:\Admin\Admin\obj\x86\Debug\Admin.Main.resources
+F:\Admin\Admin\obj\x86\Debug\Admin.ClassInfo.resources
+F:\Admin\Admin\obj\x86\Debug\Admin.EmployInfo.resources
+F:\Admin\Admin\obj\x86\Debug\Admin.SalaryInfo.resources
+F:\Admin\Admin\obj\x86\Debug\Admin.Password.resources
+F:\Admin\Admin\obj\x86\Debug\Admin.Children.newClass.resources
+F:\Admin\Admin\obj\x86\Debug\Admin.Children.modClass.resources
+F:\Admin\Admin\obj\x86\Debug\Admin.Children.newEmploy.resources
+F:\Admin\Admin\obj\x86\Debug\Admin.Children.modEmploy.resources
